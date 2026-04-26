@@ -1,0 +1,24 @@
+{
+  "name": "desafio-trabalho-programacao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RenataCamp0s/desafio-trabalho-programacao.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/RenataCamp0s/desafio-trabalho-programacao/issues"
+  },
+  "homepage": "https://github.com/RenataCamp0s/desafio-trabalho-programacao#readme",
+  "devDependencies": {
+    "mocha": "^11.7.5"
+  }
+}
